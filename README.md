@@ -2,6 +2,9 @@ This PCB layout has been modified to be universally compatible with Sega Genesis
 
 All credit goes to Mourix for alteration of the existing PCB design.  I simply measured holes and begged.
 
+Original project can be found here:
+
+https://github.com/soniccd123/Genesis-FeRAM-Cart
 
 Unedited readme from original project is below.
 
