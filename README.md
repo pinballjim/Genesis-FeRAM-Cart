@@ -1,3 +1,8 @@
+This PCB layout has been modified to be universally compatible with Sega Genesis, 32X, and Electronic Arts cartridge shells.  All credit goes to Mourix for alteration of the existing PCB design.  I simply measured holes and begged.
+
+
+Unedited readme from original project is below.
+
 # Genesis FeRAM Cart
 A open Sega Genesis cartridge PCB with save feature
 
