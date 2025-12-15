@@ -1,4 +1,6 @@
-This PCB layout has been modified to be universally compatible with Sega Genesis, 32X, and Electronic Arts cartridge shells.  All credit goes to Mourix for alteration of the existing PCB design.  I simply measured holes and begged.
+This PCB layout has been modified to be universally compatible with Sega Genesis, 32X, and Electronic Arts cartridge shells.  The file Cart_FeRAM_Holes.zip has been confirmed working with an order from PCBWay and with original shells.
+
+All credit goes to Mourix for alteration of the existing PCB design.  I simply measured holes and begged.
 
 
 Unedited readme from original project is below.
